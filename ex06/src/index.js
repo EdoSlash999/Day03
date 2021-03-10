@@ -10,5 +10,7 @@ function main() {
     z = z + "John";
     return[x, y, z];
 }
+
 console.log(main());
+
 module.exports = main;
