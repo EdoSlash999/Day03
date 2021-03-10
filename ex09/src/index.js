@@ -1,8 +1,6 @@
-function main(numOne= 15, numTwo = 8) {
+function main(numOne, numTwo) {
     // Only change code below this line
-    var numOne;
-    var numTwo;
-    var diference=numOne-numTwo;
+    var diference = numOne - numTwo;
     // Only change code above this line
     return diference;
    
